@@ -89,7 +89,7 @@
 \DeclareOption{welsh}          {\trans@use@and@alias{welsh}     {Welsh}}
 \DeclareOption{UKenglish}      {\trans@use@and@alias{UKenglish} {BritishEnglish,English}}
 \DeclareOption{USenglish}      {\trans@use@and@alias{USenglish} {AmericanEnglish,English}}
-\ProcessOptions*
+\ProcessOptions*\relax
 
 \newcommand\languagepath[1]{\def\trans@languagepath{#1}}
 \def\trans@languagepath{\languagename,English}
