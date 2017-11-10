@@ -7,13 +7,13 @@ bundle = ""
 module = "translator"
 
 -- Install config files
-installfiles = {"*.dict", "*.sty", "translator-language-mappings.tex"}
+installfiles = {"*.dict", "*.sty"}
 
 -- Release a TDS-style zip
 packtdszip = true
 
 -- Typeset only the .tex files
-typesetfiles = {"translator.tex"}
+typesetfiles = {"*.tex"}
 
 -- Find and run the build system
 kpse.set_program_name("kpsewhich")
