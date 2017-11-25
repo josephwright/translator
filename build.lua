@@ -16,6 +16,9 @@ packtdszip = true
 -- Typeset only the .tex files
 typesetfiles = {"*.tex"}
 
+-- Only release README
+textfiles = {"*.md"}
+
 -- Find and run the build system
 kpse.set_program_name("kpsewhich")
 dofile(kpse.lookup("l3build.lua"))
