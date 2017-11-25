@@ -6,8 +6,9 @@
 bundle = ""
 module = "translator"
 
--- Install config files
+-- Source and live files are the same
 installfiles = {"*.dict", "*.sty"}
+sourcefiles  = installfiles
 
 -- Release a TDS-style zip
 packtdszip = true
