@@ -1,0 +1,82 @@
+\ProvidesDictionary{translator-theorem-dictionary}{Italian}
+
+\providetranslation{Comments}{Commenti}
+\providetranslation{comments}{commenti}
+\providetranslation{Comment}{Commento}
+\providetranslation{comment}{commento}
+\providetranslation{Corollaries}{Corollari}
+\providetranslation{corollaries}{corollari}
+\providetranslation{Corollary}{Corollario}
+\providetranslation{corollary}{corollario}
+\providetranslation{Definitions}{Definizioni}
+\providetranslation{definitions}{definizioni}
+\providetranslation{Definition}{Definizione}
+\providetranslation{definition}{definizione}
+\providetranslation{Examples}{Esempi}
+\providetranslation{examples}{esempi}
+\providetranslation{Example}{Esempio}
+\providetranslation{example}{esempio}
+\providetranslation{Exercises}{Esercizi}
+\providetranslation{exercises}{esercizi}
+\providetranslation{Exercise}{Esercizio}
+\providetranslation{exercise}{esercizio}
+\providetranslation{Facts}{Fatti}
+\providetranslation{facts}{fatti}
+\providetranslation{Fact}{Fatto}
+\providetranslation{fact}{fatto}
+\providetranslation{Key Lemmas}{Lemmi fondamentali}
+\providetranslation{key lemmas}{lemmi fondamentali}
+\providetranslation{Key Lemma}{Lemma fondamentale}
+\providetranslation{key lemma}{lemma fondamentale}
+\providetranslation{Key Observations}{Osservazioni decisive}
+\providetranslation{key observations}{osservazioni decisive}
+\providetranslation{Key Observation}{Osservazione decisiva}
+\providetranslation{key observation}{osservazione decisiva}
+\providetranslation{Lemmas}{Lemmi}
+\providetranslation{lemmas}{lemmi}
+\providetranslation{Lemma}{Lemma}
+\providetranslation{lemma}{lemma}
+\providetranslation{Main Theorems}{Teoremi principali}
+\providetranslation{main theorems}{teoremi principali}
+\providetranslation{Main Theorem}{Teorema principale}
+\providetranslation{main theorem}{teorema principale}
+\providetranslation{Observations}{Osservazioni}
+\providetranslation{observations}{osservazioni}
+\providetranslation{Observation}{Osservazione}
+\providetranslation{observation}{osservazione}
+\providetranslation{Problems}{Problemi}
+\providetranslation{problems}{problemi}
+\providetranslation{Problem}{Problema}
+\providetranslation{problem}{problema}
+\providetranslation{Proofs}{Dimostrazioni}
+\providetranslation{proofs}{dimomostrazioni}
+\providetranslation{Proof}{Dimostrazione}
+\providetranslation{proof}{dimostrazione}
+\providetranslation{Proof Sketch}{Schema dimostrativo}
+\providetranslation{Proof sketch}{Schema dimostrativo}
+\providetranslation{proof sketch}{schema dimostrativo}
+\providetranslation{Proof Sketches}{Schemi dimostrativi}
+\providetranslation{Proof sketches}{Schemi dimostativi}
+\providetranslation{proof sketches}{schemi dimostrativi}
+\providetranslation{Sketch of Proof}{Schema della dimostrazione}
+\providetranslation{Sketch of Proofs}{Schema delle dimostrazioni}
+\providetranslation{Sketch of proof}{Schema della dimostrazione}
+\providetranslation{Sketch of proofs}{Schema delle dimostrazioni}
+\providetranslation{sketch of proof}{schema della dimostrazione}
+\providetranslation{sketch of proofs}{schema delle dimostrazioni}
+\providetranslation{Propositions}{Enunciati}
+\providetranslation{propositions}{enunciati}
+\providetranslation{Proposition}{Enunciato}
+\providetranslation{proposition}{enunciato}
+\providetranslation{Remarks}{Osservazioni}
+\providetranslation{remarks}{osservazioni}
+\providetranslation{Remark}{Osservazione}
+\providetranslation{remark}{osservazione}
+\providetranslation{Solutions}{Soluzioni}
+\providetranslation{solutions}{soluzioni}
+\providetranslation{Solution}{Soluzione}
+\providetranslation{solution}{soluzione}
+\providetranslation{Theorems}{Teoremi}
+\providetranslation{theorems}{teoremi}
+\providetranslation{Theorem}{Teorema}
+\providetranslation{theorem}{teorema}

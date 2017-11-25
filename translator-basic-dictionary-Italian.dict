@@ -1,0 +1,87 @@
+\ProvidesDictionary{translator-basic-dictionary}{Italian}
+
+\providetranslation{Abstract}{Sommario}
+\providetranslation{Addresses}{Indirizzi}
+\providetranslation{addresses}{indirizzi}
+\providetranslation{Address}{Indirizzo}
+\providetranslation{address}{Indirizzo}
+\providetranslation{and}{e}
+\providetranslation{Appendix}{Appendice}
+\providetranslation{Authors}{Autori}
+\providetranslation{authors}{autori}
+\providetranslation{Author}{Autore}
+\providetranslation{author}{Autore}
+\providetranslation{Bibliography}{Bibliografia}
+\providetranslation{cc}{e.~p.~c.}
+\providetranslation{Chapters}{Capitoli}
+\providetranslation{chapters}{capitoli}
+\providetranslation{Chapter}{Capitolo}
+\providetranslation{chapter}{capitolo}
+\providetranslation{Conclusion}{Conclusione}
+\providetranslation{conclusion}{conclusione}
+\providetranslation{Contents}{Indice}
+\providetranslation{Continuation}{Continua}
+\providetranslation{continuation}{continua}
+\providetranslation{cont}{cont}
+\providetranslation{encl (plural)}{allegati}
+\providetranslation{encl (singular)}{allegato}
+\providetranslation{encl}{all}
+\providetranslation{Figures}{Figure}
+\providetranslation{figures}{figure}
+\providetranslation{Figure}{Figura}
+\providetranslation{figure}{figura}
+\providetranslation{From}{Da}
+\providetranslation{from}{da}
+\providetranslation{Glossary}{Glossario}
+\providetranslation{Index}{Indice analitico}
+\providetranslation{Introduction}{Introduzione}
+\providetranslation{introduction}{introduzione}
+\providetranslation{List of Figures and Tables}{Elenco delle figure e delle tabelle}
+\providetranslation{List of Figures}{Elenco delle figure}
+\providetranslation{List of Tables}{Elenco delle tabelle}
+\providetranslation{or}{o}
+\providetranslation{Outline}{Piano}% FIXME
+\providetranslation{Overview}{Riassunto}
+\providetranslation{Pages}{Pagine}
+\providetranslation{pages}{pagine}
+\providetranslation{Page}{Pagina}
+\providetranslation{page}{pagina}
+\providetranslation{Paragraphs}{Capoversi}
+\providetranslation{paragraphs}{Capoversi}
+\providetranslation{Paragraph}{Capoverso}
+\providetranslation{paragraph}{capoverso}
+\providetranslation{Parts}{Parti}
+\providetranslation{parts}{parti}
+\providetranslation{Part}{Parte}
+\providetranslation{part}{parte}
+\providetranslation{Preface}{Prefazione}
+\providetranslation{Proofs}{Dimostrazioni}
+\providetranslation{proofs}{dimostrazioni}
+\providetranslation{Proof}{Dimostrazione}
+\providetranslation{proof}{dimostrazione}
+\providetranslation{References}{Riferimenti}
+\providetranslation{Related work}{Lavoro collegato}
+\providetranslation{Related Work}{Lavoro collegato}
+\providetranslation{Sections}{Paragrafi}
+\providetranslation{sections}{paragrafi}
+\providetranslation{Section}{Paragrafo}
+\providetranslation{section}{paragrafo}
+\providetranslation{See also}{Vedi anche}
+\providetranslation{see also}{vedi anche}
+\providetranslation{See}{vedi}
+\providetranslation{see}{vedi}
+\providetranslation{Sketch of Proofs}{Schema delle dimostrazioni}
+\providetranslation{Sketch of proofs}{Schema delle dimostrazioni}
+\providetranslation{Sketch of Proof}{Schema della dimostrazione}
+\providetranslation{Sketch of proof}{Schema della dimostrazione}
+\providetranslation{Subsections}{Sottoparagrafi}
+\providetranslation{subsections}{sottoparagrafi}
+\providetranslation{Subsection}{Sottoparagrafo}
+\providetranslation{subsection}{sottoparagrafo}
+\providetranslation{Summary}{Riassunto}
+\providetranslation{Tables}{Tabelle}
+\providetranslation{tables}{tabelle}
+\providetranslation{Table}{Tabella}
+\providetranslation{table}{tabella}
+\providetranslation{To}{A}
+\providetranslation{to}{a}

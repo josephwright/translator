@@ -1,0 +1,10 @@
+\ProvidesDictionary{translator-environment-dictionary}{Italian}
+
+\providetranslation{advantage}{vantaggio}
+\providetranslation{Advantage}{Vantaggio}
+\providetranslation{advantages}{vantaggi}
+\providetranslation{Advantages}{Vantaggi}
+\providetranslation{disadvantage}{svantaggio}
+\providetranslation{Disadvantage}{Svantaggio}
+\providetranslation{disadvantages}{svantaggi}
+\providetranslation{Disadvantages}{Svantaggi}

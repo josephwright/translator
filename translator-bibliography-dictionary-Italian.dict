@@ -1,0 +1,21 @@
+\ProvidesDictionary{translator-bibliography-dictionary}{Italian}
+
+\providetranslation{ed.}{ed.}
+\providetranslation{Editions}{Edizioni}
+\providetranslation{editions}{edizioni}
+\providetranslation{Edition}{Edizione}
+\providetranslation{edition}{edizione}
+\providetranslation{Editors}{Curatori}
+\providetranslation{editors}{curatori}
+\providetranslation{Editor}{Curatore}
+\providetranslation{editor}{curatore}
+\providetranslation{eds.}{cur.}
+\providetranslation{Extended edition}{Edizione estesa}
+\providetranslation{extended edition}{edizione estesa}
+\providetranslation{in (bibliography)}{in}
+\providetranslation{In (bibliography)}{In}
+\providetranslation{Tech. Rep.}{Rapp.\ Tecn.}
+\providetranslation{Technical Reports}{Rapporti tecnici}
+\providetranslation{technical reports}{rapporti tecnici}
+\providetranslation{Technical Report}{Rapporto tecnico}
+\providetranslation{technical report}{rapporto tecnico}
