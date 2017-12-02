@@ -13,18 +13,18 @@
 \providetranslation{November}{November}
 \providetranslation{December}{Dezember}
 
-\providetranslation{Jan}{Jan}
-\providetranslation{Feb}{Feb}
-\providetranslation{Mar}{M\"ar}
-\providetranslation{Apr}{Apr}
+\providetranslation{Jan}{Jan.}
+\providetranslation{Feb}{Feb.}
+\providetranslation{Mar}{M\"arz}
+\providetranslation{Apr}{Apr.}
 \providetranslation{May}{Mai}
-\providetranslation{Jun}{Jun}
-\providetranslation{Jul}{Jul}
-\providetranslation{Aug}{Aug}
-\providetranslation{Sep}{Sep}
-\providetranslation{Oct}{Okt}
-\providetranslation{Nov}{Nov}
-\providetranslation{Dec}{Dez}
+\providetranslation{Jun}{Juni}
+\providetranslation{Jul}{Juli}
+\providetranslation{Aug}{Aug.}
+\providetranslation{Sep}{Sept.}
+\providetranslation{Oct}{Okt.}
+\providetranslation{Nov}{Nov.}
+\providetranslation{Dec}{Dez.}
 
 \providetranslation{Monday}{Montag}
 \providetranslation{Tuesday}{Dienstag}
