@@ -1,0 +1,10 @@
+\ProvidesDictionary{translator-environment-dictionary}{Danish}
+
+\providetranslation{advantage}{fordel}
+\providetranslation{Advantage}{Fordel}
+\providetranslation{advantages}{fordele}
+\providetranslation{Advantages}{Fordele}
+\providetranslation{disadvantage}{ulempe}
+\providetranslation{Disadvantage}{Ulempe}
+\providetranslation{disadvantages}{ulemper}
+\providetranslation{Disadvantages}{Ulemper}

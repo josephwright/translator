@@ -1,0 +1,21 @@
+\ProvidesDictionary{translator-bibliography-dictionary}{Danish}
+
+\providetranslation{ed.}{udg.}
+\providetranslation{Editions}{Udgaver}
+\providetranslation{editions}{udgaver}
+\providetranslation{Edition}{Udgave}
+\providetranslation{edition}{udgave}
+\providetranslation{Editors}{Udgivere}
+\providetranslation{editors}{udgivere}
+\providetranslation{Editor}{Udgiver}
+\providetranslation{editor}{udgiver}
+\providetranslation{eds.}{udg.}
+\providetranslation{Extended edition}{Udvidet\ udgave}
+\providetranslation{extended edition}{udvidet\ udgave}
+\providetranslation{in (bibliography)}{i}
+\providetranslation{In (bibliography)}{I}
+\providetranslation{Tech. Rep.}{Tekn.\ repr.}
+\providetranslation{Technical Reports}{Tekniske rapporter}
+\providetranslation{technical reports}{tekniske rapporter}
+\providetranslation{Technical Report}{Teknisk rapport}
+\providetranslation{technical report}{teknisk rapport}
