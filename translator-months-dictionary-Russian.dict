@@ -26,11 +26,11 @@
 \providetranslation{Nov}{Ноя}
 \providetranslation{Dec}{Дек}
 
-\providetranslation{Monday}{Понеделник}
+\providetranslation{Monday}{Понедельник}
 \providetranslation{Tuesday}{Вторник}
 \providetranslation{Wednesday}{Среда}
 \providetranslation{Thursday}{Четверг}
-\providetranslation{Friday}{Петница}
+\providetranslation{Friday}{Пятница}
 \providetranslation{Saturday}{Суббота}
 \providetranslation{Sunday}{Воскресенье}
 
@@ -39,5 +39,5 @@
 \providetranslation{Wed}{Ср}
 \providetranslation{Thu}{Чт}
 \providetranslation{Fri}{Пт}
-\providetranslation{Sat}{Ст}
+\providetranslation{Sat}{Сб}
 \providetranslation{Sun}{Вс}
