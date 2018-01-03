@@ -25,10 +25,10 @@
 \providetranslation{Fact}{Факт}
 \providetranslation{fact}{факт}
 \providetranslation{Key Lemmas}{Ключевые леммы}
-\providetranslation{key lemmas}{Ключевые леммы}
-\providetranslation{Key Lemma}{Ключевая Лемма}
+\providetranslation{key lemmas}{ключевые леммы}
+\providetranslation{Key Lemma}{Ключевая лемма}
 \providetranslation{key lemma}{ключевая лемма}
-\providetranslation{Key Observations}{Ключевые Наблюдения}
+\providetranslation{Key Observations}{Ключевые наблюдения}
 \providetranslation{key observations}{ключевые наблюдения}
 \providetranslation{Key Observation}{Ключевое наблюдение}
 \providetranslation{key observation}{ключевое наблюдение}
@@ -52,31 +52,31 @@
 \providetranslation{proofs}{доказательства}
 \providetranslation{Proof}{Доказательство}
 \providetranslation{proof}{доказательство}
-\providetranslation{Proof Sketch}{Идея за доказателство}
-\providetranslation{Proof sketch}{Идея за доказателство}
-\providetranslation{proof sketch}{идея за доказателство}
-\providetranslation{Proof Sketches}{Идея за доказателства}
-\providetranslation{Proof sketches}{Идея за доказателства}
-\providetranslation{proof sketches}{идея за доказателства}
-\providetranslation{Sketch of Proof}{Идея за доказателство}
-\providetranslation{Sketch of Proofs}{Идея за доказателства}
-\providetranslation{Sketch of proof}{Идея за доказателство}
-\providetranslation{Sketch of proofs}{Идея за доказателства}
-\providetranslation{sketch of proof}{идея за доказателство}
-\providetranslation{sketch of proofs}{идея за доказателства}
-\providetranslation{Propositions}{Твърдения}
-\providetranslation{propositions}{твърдения}
-\providetranslation{Proposition}{Твърдение}
-\providetranslation{proposition}{твърдение}
-\providetranslation{Remarks}{Забележки}
-\providetranslation{remarks}{забележки}
-\providetranslation{Remark}{Забележка}
-\providetranslation{remark}{забележка}
+\providetranslation{Proof Sketch}{Идея доказательства}
+\providetranslation{Proof sketch}{Идея доказательства}
+\providetranslation{proof sketch}{идея доказательства}
+\providetranslation{Proof Sketches}{Идея доказательств}
+\providetranslation{Proof sketches}{Идея доказательств}
+\providetranslation{proof sketches}{идея доказательств}
+\providetranslation{Sketch of Proof}{Идея доказательства}
+\providetranslation{Sketch of Proofs}{Идея доказательств}
+\providetranslation{Sketch of proof}{Идея доказательства}
+\providetranslation{Sketch of proofs}{Идея доказательств}
+\providetranslation{sketch of proof}{идея доказательства}
+\providetranslation{sketch of proofs}{идея доказательств}
+\providetranslation{Propositions}{Утверждения}
+\providetranslation{propositions}{утверждения}
+\providetranslation{Proposition}{Утверждение}
+\providetranslation{proposition}{утверждение}
+\providetranslation{Remarks}{Замечания}
+\providetranslation{remarks}{замечания}
+\providetranslation{Remark}{Замечание}
+\providetranslation{remark}{замечание}
 \providetranslation{Solutions}{Решения}
 \providetranslation{solutions}{решения}
 \providetranslation{Solution}{Решение}
 \providetranslation{solution}{решение}
-\providetranslation{Theorems}{Теореми}
-\providetranslation{theorems}{теореми}
+\providetranslation{Theorems}{Теоремы}
+\providetranslation{theorems}{теоремы}
 \providetranslation{Theorem}{Теорема}
 \providetranslation{theorem}{теорема}
