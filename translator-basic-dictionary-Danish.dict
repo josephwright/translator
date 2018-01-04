@@ -1,0 +1,84 @@
+\ProvidesDictionary{translator-basic-dictionary}{Danish}
+
+\providetranslation{Abstract}{Resum{\'e}}
+\providetranslation{Addresses}{Adresser}
+\providetranslation{addresses}{adresser}
+\providetranslation{Address}{Adresse}
+\providetranslation{address}{adresse}
+\providetranslation{and}{og}
+\providetranslation{Appendix}{Appendiks}
+\providetranslation{Authors}{Forfattere}
+\providetranslation{authors}{forfattere}
+\providetranslation{Author}{Forfatter}
+\providetranslation{author}{forfatter}
+\providetranslation{Bibliography}{Bibliografi}
+\providetranslation{cc}{kopi}
+\providetranslation{Chapters}{Kapitler}
+\providetranslation{chapters}{kapitler}
+\providetranslation{Chapter}{Kapitel}
+\providetranslation{chapter}{kapitel}
+\providetranslation{Conclusion}{Konklusion}
+\providetranslation{conclusion}{konklusion}
+\providetranslation{Contents}{Indhold}
+\providetranslation{encl (plural)}{vedh{\ae}ftninger}
+\providetranslation{encl (singular)}{vedh{\ae}ftning}
+\providetranslation{encl}{vedh{\ae}ftning}
+\providetranslation{Figures}{Figurer}
+\providetranslation{figures}{figurer}
+\providetranslation{Figure}{Figur}
+\providetranslation{figure}{figur}
+\providetranslation{From}{Fra}
+\providetranslation{from}{fra}
+\providetranslation{Glossary}{Ordliste}
+\providetranslation{Index}{Register}
+\providetranslation{Introduction}{Indledning}
+\providetranslation{introduction}{indledning}
+\providetranslation{List of Figures and Tables}{Figurer og tabeller}
+\providetranslation{List of Figures}{Figurer}
+\providetranslation{List of Tables}{Tabeller}
+\providetranslation{or}{eller}
+\providetranslation{Outline}{Disposition}
+\providetranslation{Overview}{Oversigt}
+\providetranslation{Pages}{Sider}
+\providetranslation{pages}{sider}
+\providetranslation{Page}{Side}
+\providetranslation{page}{side}
+\providetranslation{Paragraphs}{Afsnit}
+\providetranslation{paragraphs}{afsnit}
+\providetranslation{Paragraph}{Afsnit}
+\providetranslation{paragraph}{afsnit}
+\providetranslation{Parts}{Dele}
+\providetranslation{parts}{dele}
+\providetranslation{Part}{Del}
+\providetranslation{part}{del}
+\providetranslation{Preface}{Forord}
+\providetranslation{Proofs}{Beviser}
+\providetranslation{proofs}{beviser}
+\providetranslation{Proof}{Bevis}
+\providetranslation{proof}{bevis}
+\providetranslation{References}{Referencer}
+\providetranslation{Related work}{Relateret arbejde}
+\providetranslation{Related Work}{relateret arbejde}
+\providetranslation{Sections}{Sektioner}
+\providetranslation{sections}{sektioner}
+\providetranslation{Section}{Sektion}
+\providetranslation{section}{sektion}
+\providetranslation{See also}{Se ogs{\aa}}
+\providetranslation{see also}{se ogs{\aa}}
+\providetranslation{See}{Se}
+\providetranslation{see}{se}
+\providetranslation{Sketch of Proofs}{Skitse af beviser}
+\providetranslation{Sketch of proofs}{Skitse af beviser}
+\providetranslation{Sketch of Proof}{Skitse af bevis}
+\providetranslation{Sketch of proof}{Skitse af bevis}
+\providetranslation{Subsections}{Undersektioner}
+\providetranslation{subsections}{undersektioner}
+\providetranslation{Subsection}{Undersektion}
+\providetranslation{subsection}{undersektion}
+\providetranslation{Summary}{Opsummering}
+\providetranslation{Tables}{Tabeller}
+\providetranslation{tables}{tabeller}
+\providetranslation{Table}{Tabel}
+\providetranslation{table}{tabel}
+\providetranslation{To}{Til}
+\providetranslation{to}{til}

@@ -1,0 +1,82 @@
+\ProvidesDictionary{translator-theorem-dictionary}{Danish}
+
+\providetranslation{Comments}{Kommentarer}
+\providetranslation{comments}{kommentarer}
+\providetranslation{Comment}{Kommentar}
+\providetranslation{comment}{kommentar}
+\providetranslation{Corollaries}{Korollarer}
+\providetranslation{corollaries}{korollarer}
+\providetranslation{Corollary}{Korollar}
+\providetranslation{corollary}{korollar}
+\providetranslation{Definitions}{Definitioner}
+\providetranslation{definitions}{definitioner}
+\providetranslation{Definition}{Definition}
+\providetranslation{definition}{definition}
+\providetranslation{Examples}{Eksempler}
+\providetranslation{examples}{eksempler}
+\providetranslation{Example}{Eksempel}
+\providetranslation{example}{eksempel}
+\providetranslation{Exercises}{Opgaver}
+\providetranslation{exercises}{opgaver}
+\providetranslation{Exercise}{Opgave}
+\providetranslation{exercise}{opgave}
+\providetranslation{Facts}{Fakta}
+\providetranslation{facts}{fakta}
+\providetranslation{Fact}{Faktum}
+\providetranslation{fact}{faktum}
+\providetranslation{Key Lemmas}{Centrale\ lemmaer}
+\providetranslation{key lemmas}{centrale\ lemmaer}
+\providetranslation{Key Lemma}{Centralt\ lemma}
+\providetranslation{key lemma}{centralt\ lemma}
+\providetranslation{Key Observations}{Centrale\ observationer}
+\providetranslation{key observations}{centrale\ observationer}
+\providetranslation{Key Observation}{Central\ observation}
+\providetranslation{key observation}{central\ observation}
+\providetranslation{Lemmas}{Lemmaer}
+\providetranslation{lemmas}{lemmaer}
+\providetranslation{Lemma}{Lemma}
+\providetranslation{lemma}{lemma}
+\providetranslation{Main Theorems}{Hoveds{\ae}tninger}
+\providetranslation{main theorems}{hoveds{\ae}tninger}
+\providetranslation{Main Theorem}{Hoveds{\ae}tning}
+\providetranslation{main theorem}{hoveds{\ae}tning}
+\providetranslation{Observations}{Observationer}
+\providetranslation{observations}{observationer}
+\providetranslation{Observation}{Observation}
+\providetranslation{observation}{observation}
+\providetranslation{Problems}{Opgaver}
+\providetranslation{problems}{opgaver}
+\providetranslation{Problem}{Opgave}
+\providetranslation{problem}{opgave}
+\providetranslation{Proofs}{Beviser}
+\providetranslation{proofs}{beviser}
+\providetranslation{Proof}{Bevis}
+\providetranslation{proof}{bevis}
+\providetranslation{Proof Sketch}{Bevisskitse}
+\providetranslation{Proof sketch}{Bevisskitse}
+\providetranslation{proof sketch}{bevisskitse}
+\providetranslation{Proof Sketches}{Bevisskitser}
+\providetranslation{Proof sketches}{Bevisskitser}
+\providetranslation{proof sketches}{bevisskitser}
+\providetranslation{Sketch of Proof}{Skitse af bevis}
+\providetranslation{Sketch of Proofs}{Skitse af beviser}
+\providetranslation{Sketch of proof}{Skitse af bevis}
+\providetranslation{Sketch of proofs}{Skitse af beviser}
+\providetranslation{sketch of proof}{skitse af bevis}
+\providetranslation{sketch of proofs}{skitse af beviser}
+\providetranslation{Propositions}{Propositioner}
+\providetranslation{propositions}{propositioner}
+\providetranslation{Proposition}{Proposition}
+\providetranslation{proposition}{proposition}
+\providetranslation{Remarks}{Bem{\ae}rkninger}
+\providetranslation{remarks}{bem{\ae}rkninger}
+\providetranslation{Remark}{Bem{\ae}rkning}
+\providetranslation{remark}{bem{\ae}rkning}
+\providetranslation{Solutions}{L{\o}sninger}
+\providetranslation{solutions}{l{\o}sninger}
+\providetranslation{Solution}{L{\o}sning}
+\providetranslation{solution}{l{\o}sning}
+\providetranslation{Theorems}{S{\ae}tninger}
+\providetranslation{theorems}{s{\ae}tninger}
+\providetranslation{Theorem}{S{\ae}tning}
+\providetranslation{theorem}{s{\ae}tning}
