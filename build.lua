@@ -10,6 +10,8 @@ module = "translator"
 installfiles = {"*.dict", "*.sty"}
 sourcefiles  = installfiles
 
+testfiledir = ""
+
 -- Release a TDS-style zip
 packtdszip = true
 
