@@ -82,3 +82,6 @@
 \providetranslation{table}{tabell}
 \providetranslation{To}{Til}
 \providetranslation{to}{til}
+\providetranslation{Who?}{Kven?}
+\providetranslation{From?}{Fr\r{a}?}
+\providetranslation{When?}{N\r{a}r?}
