@@ -85,3 +85,6 @@
 \providetranslation{table}{table}
 \providetranslation{To}{To}
 \providetranslation{to}{to}
+\providetranslation{Who?}{Who?}
+\providetranslation{From?}{From?}
+\providetranslation{When?}{When?}

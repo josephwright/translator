@@ -85,3 +85,6 @@
 \providetranslation{table}{Tabelle}
 \providetranslation{To}{An}
 \providetranslation{to}{an}
+\providetranslation{Who?}{Wer?}
+\providetranslation{From?}{Woher?}
+\providetranslation{When?}{Wann?}

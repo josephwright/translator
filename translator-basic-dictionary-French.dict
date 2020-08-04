@@ -85,3 +85,6 @@
 \providetranslation{table}{table}
 \providetranslation{To}{Vers}%??
 \providetranslation{to}{vers}%??
+\providetranslation{Who?}{Qui?}
+\providetranslation{From?}{D'o\`u?}
+\providetranslation{When?}{Quand?}
