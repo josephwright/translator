@@ -1,0 +1,82 @@
+\ProvidesDictionary{translator-theorem-dictionary}{Czech}
+
+\providetranslation{Comments}{Koment\'a\v{r}e}
+\providetranslation{comments}{koment\'a\v{r}e}
+\providetranslation{Comment}{Koment\'a\v{r}}
+\providetranslation{comment}{koment\'a\v{r}}
+\providetranslation{Corollaries}{D\r{u}sledky}
+\providetranslation{corollaries}{d\r{u}sledky}
+\providetranslation{Corollary}{D\r{u}sledek}
+\providetranslation{corollary}{d\r{u}sledek}
+\providetranslation{Definitions}{Definice}
+\providetranslation{definitions}{definice}
+\providetranslation{Definition}{Definice}
+\providetranslation{definition}{definice}
+\providetranslation{Examples}{P\v{r}\'iklady}
+\providetranslation{examples}{p\v{r}\'iklady}
+\providetranslation{Example}{P\v{r}\'iklad}
+\providetranslation{example}{p\v{r}\'iklad}
+\providetranslation{Exercises}{Cvi\v{c}en\'i}
+\providetranslation{exercises}{cvi\v{c}en\'i}
+\providetranslation{Exercise}{Cvi\v{c}en\'i}
+\providetranslation{exercise}{cvi\v{c}en\'i}
+\providetranslation{Facts}{Fakta}
+\providetranslation{facts}{fakta}
+\providetranslation{Fact}{Fakt}
+\providetranslation{fact}{fakt}
+\providetranslation{Key Lemmas}{Kl\'i\v{c}ov\'a lemmata}
+\providetranslation{key lemmas}{kl\'i\v{c}ov\'a lemmata}
+\providetranslation{Key Lemma}{Kl\'i\v{c}ov\'e lemma}
+\providetranslation{key lemma}{kl\'i\v{c}ov\'e lemma}
+\providetranslation{Key Observations}{Kl\'i\v{c}ov\'a pozorov\'an\'i}
+\providetranslation{key observations}{kl\'i\v{c}ov\'a pozorov\'an\'i}
+\providetranslation{Key Observation}{Kl\'i\v{c}ov\'e pozorov\'an\'i}
+\providetranslation{key observation}{kl\'i\v{c}ov\'e pozorov\'an\'i}
+\providetranslation{Lemmas}{Lemmata}
+\providetranslation{lemmas}{lemmata}
+\providetranslation{Lemma}{Lemma}
+\providetranslation{lemma}{Lemma}
+\providetranslation{Main Theorems}{Hlavn\'i v\v{e}ty}
+\providetranslation{main theorems}{hlavn\'i v\v{e}ty}
+\providetranslation{Main Theorem}{Hlavn\'i v\v{e}ta}
+\providetranslation{main theorem}{hlavn\'i v\v{e}ta}
+\providetranslation{Observations}{Pozorov\'an\'i}
+\providetranslation{observations}{pozorov\'an\'i}
+\providetranslation{Observation}{Pozorov\'an\'i}
+\providetranslation{observation}{pozorov\'an\'i}
+\providetranslation{Problems}{Probl\'emy}
+\providetranslation{problems}{probl\'emy}
+\providetranslation{Problem}{Probl\'em}
+\providetranslation{problem}{probl\'em}
+\providetranslation{Proofs}{D\r{u}kazy}
+\providetranslation{proofs}{d\r{u}kazy}
+\providetranslation{Proof}{D\r{u}kaz}
+\providetranslation{proof}{d\r{u}kaz}
+\providetranslation{Proof Sketch}{N\'astin d\r{u}kazu}		% this translation is questionable and also it is not entirely clear wheter there should be small "d"
+\providetranslation{Proof sketch}{N\'astin d\r{u}kazu}
+\providetranslation{proof sketch}{n\'astin d\r{u}kazu}
+\providetranslation{Proof Sketches}{N\'astiny d\r{u}kaz\r{u}}
+\providetranslation{Proof sketches}{N\'astiny d\r{u}kaz\r{u}}
+\providetranslation{proof sketches}{n\'astiny d\r{u}kaz\r{u}}
+\providetranslation{Sketch of Proof}{N\'astin d\r{u}kazu}	% also questionable
+\providetranslation{Sketch of Proofs}{N\'astin d\r{u}kaz\r{u}}
+\providetranslation{Sketch of proof}{N\'astin d\r{u}kazu}
+\providetranslation{Sketch of proofs}{N\'astin d\r{u}kaz\r{u}}
+\providetranslation{sketch of proof}{n\'astin d\r{u}kazu}
+\providetranslation{sketch of proofs}{N\'astin d\r{u}kaz\r{u}}
+\providetranslation{Propositions}{Tvrzen\'i}
+\providetranslation{propositions}{tvrzen\'i}
+\providetranslation{Proposition}{Tvrzen\'i}
+\providetranslation{proposition}{tvrzen\'i}
+\providetranslation{Remarks}{Pozn\'amky}
+\providetranslation{remarks}{pozn\'amky}
+\providetranslation{Remark}{Pozn\'amka}
+\providetranslation{remark}{pozn\'amka}
+\providetranslation{Solutions}{\v{R}e\v{s}en\'i}
+\providetranslation{solutions}{\v{r}e\v{s}en\'i}
+\providetranslation{Solution}{\v{R}e\v{s}en\'i}
+\providetranslation{solution}{\v{r}e\v{s}en\'i}
+\providetranslation{Theorems}{V\v{e}ty}
+\providetranslation{theorems}{v\v{e}ty}
+\providetranslation{Theorem}{V\v{e}ta}
+\providetranslation{theorem}{v\v{e}ta}

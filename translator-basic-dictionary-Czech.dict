@@ -1,0 +1,87 @@
+\ProvidesDictionary{translator-basic-dictionary}{Czech}
+
+\providetranslation{Abstract}{Abstrakt}
+\providetranslation{Addresses}{Adresy}
+\providetranslation{addresses}{adresy}
+\providetranslation{Address}{Adresa}
+\providetranslation{address}{adresa}
+\providetranslation{and}{a}
+\providetranslation{Appendix}{Appendix}
+\providetranslation{Authors}{Auto\v{r}i}
+\providetranslation{authors}{auto\v{r}i}
+\providetranslation{Author}{Autor}
+\providetranslation{author}{autor}
+\providetranslation{Bibliography}{Bibliografie}
+\providetranslation{cc}{kopie}
+\providetranslation{Chapters}{Kapitoly}
+\providetranslation{chapters}{kapitoly}
+\providetranslation{Chapter}{Kapitola}
+\providetranslation{chapter}{kapitola}
+\providetranslation{Conclusion}{Z\'av\v{e}r}
+\providetranslation{conclusion}{z\'av\v{e}r}
+\providetranslation{Contents}{Obsah}
+\providetranslation{Continuation}{Pokra\v{c}ov\'an\'\i}
+\providetranslation{continuation}{pokra\v{c}ov\'an\'\i}
+\providetranslation{cont}{pokr}
+\providetranslation{encl (plural)}{p\v{r}\'\i lohy}
+\providetranslation{encl (singular)}{p\v{r}\'\i loha}
+\providetranslation{encl}{p\v{r}\'\i loha/y}
+\providetranslation{Figures}{Obr\'azky}
+\providetranslation{figures}{obr\'azky}
+\providetranslation{Figure}{Obr\'azek}
+\providetranslation{figure}{obr\'azek}
+\providetranslation{From}{Od}			% "Z" also possible, depends on the context
+\providetranslation{from}{od}
+\providetranslation{Glossary}{Slovn\'ik pojm\r{u}}
+\providetranslation{Index}{Rejst\v{r}\'\i k}
+\providetranslation{Introduction}{\'Uvod}
+\providetranslation{introduction}{\'uvod}
+\providetranslation{List of Figures and Tables}{Seznam obr\'azk\r{u} a tabulek}
+\providetranslation{List of Figures}{Seznam obr\'azk\r{u}}
+\providetranslation{List of Tables}{Seznam tabulek}
+\providetranslation{or}{nebo}
+\providetranslation{Outline}{Osnova}
+\providetranslation{Overview}{P\v{r}ehled}
+\providetranslation{Pages}{Str\'anky}
+\providetranslation{pages}{str\'anky}
+\providetranslation{Page}{Str\'anka}
+\providetranslation{page}{str\'anka}
+\providetranslation{Paragraphs}{Odstavce}
+\providetranslation{paragraphs}{odstavce}
+\providetranslation{Paragraph}{Odstavec}
+\providetranslation{paragraph}{odstavec}
+\providetranslation{Parts}{\v{C}\'asti}
+\providetranslation{parts}{\v{c}\'asti}
+\providetranslation{Part}{\v{C}\'ast}
+\providetranslation{part}{\v{c}\'ast}
+\providetranslation{Preface}{P\v{r}edmluva}
+\providetranslation{Proofs}{D\r{u}kazy}
+\providetranslation{proofs}{d\r{u}kazy}
+\providetranslation{Proof}{D\r{u}kaz}
+\providetranslation{proof}{d\r{u}kaz}
+\providetranslation{References}{Literatura}
+\providetranslation{Related work}{Souvisejic\'i pr\'ace}	% questionable, "P\v{r}\'ibuzn\'e pr\'ace" also possible
+\providetranslation{Related Work}{Souvisejic\'i pr\'ace}
+\providetranslation{Sections}{Odd\'ily}	
+\providetranslation{sections}{odd\'ily}
+\providetranslation{Section}{Odd\'il}
+\providetranslation{section}{odd\'il}
+\providetranslation{See also}{Viz tak\'e}
+\providetranslation{see also}{viz tak\'e}
+\providetranslation{See}{Viz}
+\providetranslation{see}{viz}
+\providetranslation{Sketch of Proofs}{N\'astin d\r{u}kaz\r{u}}
+\providetranslation{Sketch of proofs}{N\'astin d\r{u}kaz\r{u}}
+\providetranslation{Sketch of Proof}{N\'astin d\r{u}kazu}
+\providetranslation{Sketch of proof}{N\'astin d\r{u}kazu}
+\providetranslation{Subsections}{Pododd\'ily}
+\providetranslation{subsections}{pododd\'ily}
+\providetranslation{Subsection}{Pododd\'il}
+\providetranslation{subsection}{pododd\'il}
+\providetranslation{Summary}{Shrnut\'i}
+\providetranslation{Tables}{Tabulky}
+\providetranslation{tables}{tabulky}
+\providetranslation{Table}{Tabulka}
+\providetranslation{table}{tabulka}
+\providetranslation{To}{Do}
+\providetranslation{to}{do}

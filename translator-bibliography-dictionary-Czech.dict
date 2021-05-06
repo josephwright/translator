@@ -1,0 +1,21 @@
+\ProvidesDictionary{translator-bibliography-dictionary}{Czech}
+
+\providetranslation{ed.}{ed.}
+\providetranslation{Editions}{Vyd\'an\'i}
+\providetranslation{editions}{vyd\'an\'i}
+\providetranslation{Edition}{Vyd\'an\'i}
+\providetranslation{edition}{vyd\'an\'i}
+\providetranslation{Editors}{Edito\v{r}i}	% may depend on the context: "Vydavatel\'e" or "Nakladatel\'e"
+\providetranslation{editors}{edito\v{r}i}
+\providetranslation{Editor}{Editor}
+\providetranslation{editor}{editor}
+\providetranslation{eds.}{ed.}
+\providetranslation{Extended edition}{Roz\v{s}\'i\v{r}en\'e vyd\'an\'i}
+\providetranslation{extended edition}{roz\v{s}\'i\v{r}en\'e vyd\'an\'i}
+\providetranslation{in (bibliography)}{v}
+\providetranslation{In (bibliography)}{V}
+\providetranslation{Tech. Rep.}{Tech.\ zpr\'ava}
+\providetranslation{Technical Reports}{Technick\'e zpr\'avy}
+\providetranslation{technical reports}{technick\'e zpr\'avy}
+\providetranslation{Technical Report}{Technick\'a zpr\'ava}
+\providetranslation{technical report}{technick\'a zpr\'ava}
