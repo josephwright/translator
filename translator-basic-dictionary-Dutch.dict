@@ -1,0 +1,90 @@
+\ProvidesDictionary{translator-basic-dictionary}{Dutch}
+
+\providetranslation{Abstract}{Samenvatting}
+\providetranslation{Addresses}{Adressen}
+\providetranslation{addresses}{adressen}
+\providetranslation{Address}{Adres}
+\providetranslation{address}{adres}
+\providetranslation{and}{en}
+\providetranslation{Appendix}{Appendix}
+\providetranslation{Authors}{Auteurs}
+\providetranslation{authors}{auteurs}
+\providetranslation{Author}{Auteur}
+\providetranslation{author}{auteur}
+\providetranslation{Bibliography}{Bibliografie}
+\providetranslation{cc}{cc}
+\providetranslation{Chapters}{Hoofdstukken}
+\providetranslation{chapters}{hoofdstukken}
+\providetranslation{Chapter}{Hoofdstuk}
+\providetranslation{chapter}{hoofdstuk}
+\providetranslation{Conclusion}{Conclusie}
+\providetranslation{conclusion}{conclusie}
+\providetranslation{Contents}{Inhoudsopgave}
+\providetranslation{Continuation}{Vervolg}
+\providetranslation{continuation}{vervolg}
+\providetranslation{cont}{vervolg}
+\providetranslation{encl (plural)}{b\ij lagen}
+\providetranslation{encl (singular)}{b\ij lage}
+\providetranslation{encl}{b\ij lage(n)}
+\providetranslation{Figures}{Figuren}
+\providetranslation{figures}{figuren}
+\providetranslation{Figure}{Figuur}
+\providetranslation{figure}{figuur}
+\providetranslation{From}{Van}
+\providetranslation{from}{van}
+\providetranslation{Glossary}{Woordenl\ij st}
+\providetranslation{Index}{Index}
+\providetranslation{Introduction}{Inleiding}
+\providetranslation{introduction}{inleiding}
+\providetranslation{List of Figures and Tables}{Figuren- en Tabellenl\ij st}
+\providetranslation{List of Figures}{Figurenl\ij st}
+\providetranslation{List of Tables}{Tabellenl\ij st}
+\providetranslation{or}{of}
+\providetranslation{Outline}{Indeling}
+\providetranslation{Overview}{Overzicht}
+\providetranslation{Pages}{Pagina's}
+\providetranslation{pages}{pagina's}
+\providetranslation{Page}{Pagina}
+\providetranslation{page}{pagina}
+\providetranslation{Paragraphs}{Alinea's}
+\providetranslation{paragraphs}{alinea's}
+\providetranslation{Paragraph}{Alinea}
+\providetranslation{paragraph}{alinea}
+\providetranslation{Parts}{Delen}
+\providetranslation{parts}{delen}
+\providetranslation{Part}{Deel}
+\providetranslation{part}{deel}
+\providetranslation{Preface}{Voorwoord}
+\providetranslation{Proofs}{Bew\ij zen}
+\providetranslation{proofs}{bew\ij zen}
+\providetranslation{Proof}{Bew\ij s}
+\providetranslation{proof}{bew\ij s}
+\providetranslation{References}{Referenties}
+\providetranslation{Related work}{Verwant werk}
+\providetranslation{Related Work}{Verwant Werk}
+\providetranslation{Sections}{Paragrafen}
+\providetranslation{sections}{paragrafen}
+\providetranslation{Section}{Paragraaf}
+\providetranslation{section}{paragraaf}
+\providetranslation{See also}{Zie ook}
+\providetranslation{see also}{zie ook}
+\providetranslation{See}{Zie}
+\providetranslation{see}{zie}
+\providetranslation{Sketch of Proofs}{Bew\ij s\-schetsen}
+\providetranslation{Sketch of proofs}{Bew\ij s\-schetsen}
+\providetranslation{Sketch of Proof}{Bew\ij s\-schets}
+\providetranslation{Sketch of proof}{Bew\ij s\-schets}
+\providetranslation{Subsections}{Subparagrafen}
+\providetranslation{subsections}{subparagrafen}
+\providetranslation{Subsection}{Subparagraaf}
+\providetranslation{subsection}{subparagraaf}
+\providetranslation{Summary}{Samenvatting}
+\providetranslation{Tables}{Tabellen}
+\providetranslation{tables}{tabellen}
+\providetranslation{Table}{Tabel}
+\providetranslation{table}{tabel}
+\providetranslation{To}{Naar}
+\providetranslation{to}{naar}
+\providetranslation{Who?}{Wie?}
+\providetranslation{From?}{Waar vandaan?}
+\providetranslation{When?}{Wanneer?}

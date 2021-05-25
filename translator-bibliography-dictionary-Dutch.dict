@@ -1,0 +1,21 @@
+\ProvidesDictionary{translator-bibliography-dictionary}{Dutch}
+
+\providetranslation{ed.}{ed.}
+\providetranslation{Editions}{Uitgaven}
+\providetranslation{editions}{uitgaven}
+\providetranslation{Edition}{Uitgave}
+\providetranslation{edition}{uitgave}
+\providetranslation{Editors}{Redacteuren}
+\providetranslation{editors}{redacteuren}
+\providetranslation{Editor}{Redacteur}
+\providetranslation{editor}{redacteur}
+\providetranslation{eds.}{eds.}
+\providetranslation{Extended edition}{Uitgebreide uitgave}
+\providetranslation{extended edition}{uitgebreide uitgave}
+\providetranslation{in (bibliography)}{in}
+\providetranslation{In (bibliography)}{In}
+\providetranslation{Tech. Rep.}{Tech.\ Rap.}
+\providetranslation{Technical Reports}{Technische Rapporten}
+\providetranslation{technical reports}{technische rapporten}
+\providetranslation{Technical Report}{Technisch Rapport}
+\providetranslation{technical report}{technisch rapport}
