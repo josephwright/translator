@@ -1,0 +1,82 @@
+\ProvidesDictionary{translator-theorem-dictionary}{Dutch}
+
+\providetranslation{Comments}{Commentaar}
+\providetranslation{comments}{commentaar}
+\providetranslation{Comment}{Commentaar}
+\providetranslation{comment}{commentaar}
+\providetranslation{Corollaries}{Gevolgen}
+\providetranslation{corollaries}{gevolgen}
+\providetranslation{Corollary}{Gevolg}
+\providetranslation{corollary}{gevolg}
+\providetranslation{Definitions}{Definities}
+\providetranslation{definitions}{definities}
+\providetranslation{Definition}{Definitie}
+\providetranslation{definition}{definitie}
+\providetranslation{Examples}{Voorbeelden}
+\providetranslation{examples}{voorbeelden}
+\providetranslation{Example}{Voorbeeld}
+\providetranslation{example}{voorbeeld}
+\providetranslation{Exercises}{Opgaven}
+\providetranslation{exercises}{opgaven}
+\providetranslation{Exercise}{Opgave}
+\providetranslation{exercise}{opgave}
+\providetranslation{Facts}{Feiten}
+\providetranslation{facts}{feiten}
+\providetranslation{Fact}{Feit}
+\providetranslation{fact}{feit}
+\providetranslation{Key Lemmas}{Sleutel\-lemma's}
+\providetranslation{key lemmas}{sleutel\-lemma's}
+\providetranslation{Key Lemma}{Sleutel\-lemma}
+\providetranslation{key lemma}{sleutel\-lemma}
+\providetranslation{Key Observations}{Sleutel\-observaties}
+\providetranslation{key observations}{sleutel\-observaties}
+\providetranslation{Key Observation}{Sleutel\-observatie}
+\providetranslation{key observation}{sleutel\-observatie}
+\providetranslation{Lemmas}{Lemma's}
+\providetranslation{lemmas}{lemma's}
+\providetranslation{Lemma}{Lemma}
+\providetranslation{lemma}{lemma}
+\providetranslation{Main Theorems}{Hoofd\-stellingen}
+\providetranslation{main theorems}{hoofd\-stellingen}
+\providetranslation{Main Theorem}{Hoofd\-stelling}
+\providetranslation{main theorem}{hoofd\-stelling}
+\providetranslation{Observations}{Observaties}
+\providetranslation{observations}{observaties}
+\providetranslation{Observation}{Observatie}
+\providetranslation{observation}{observatie}
+\providetranslation{Problems}{Problemen}
+\providetranslation{problems}{problemen}
+\providetranslation{Problem}{Probleem}
+\providetranslation{problem}{probleem}
+\providetranslation{Proofs}{Bew\ij zen}
+\providetranslation{proofs}{bew\ij zen}
+\providetranslation{Proof}{Bew\ij s}
+\providetranslation{proof}{bew\ij s}
+\providetranslation{Proof Sketch}{Bew\ij s\-schets}
+\providetranslation{Proof sketch}{Bew\ij s\-schets}
+\providetranslation{proof sketch}{bew\ij s\-schets}
+\providetranslation{Proof Sketches}{Bew\ij s\-schetsen}
+\providetranslation{Proof sketches}{Bew\ij s\-schetsen}
+\providetranslation{proof sketches}{bew\ij s\-schetsen}
+\providetranslation{Sketch of Proof}{Bew\ij s\-schets}
+\providetranslation{Sketch of Proofs}{Bew\ij s\-schetsen}
+\providetranslation{Sketch of proof}{Bew\ij s\-schets}
+\providetranslation{Sketch of proofs}{Bew\ij s\-schetsen}
+\providetranslation{sketch of proof}{bew\ij s\-schets}
+\providetranslation{sketch of proofs}{bew\ij s\-schetsen}
+\providetranslation{Propositions}{Proposities}
+\providetranslation{propositions}{proposities}
+\providetranslation{Proposition}{Propositie}
+\providetranslation{proposition}{propositie}
+\providetranslation{Remarks}{Opmerkingen}
+\providetranslation{remarks}{opmerkingen}
+\providetranslation{Remark}{Opmerking}
+\providetranslation{remark}{opmerking}
+\providetranslation{Solutions}{Oplossingen}
+\providetranslation{solutions}{oplossingen}
+\providetranslation{Solution}{Oplossing}
+\providetranslation{solution}{oplossing}
+\providetranslation{Theorems}{Stellingen}
+\providetranslation{theorems}{stellingen}
+\providetranslation{Theorem}{Stelling}
+\providetranslation{theorem}{stelling}
