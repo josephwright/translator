@@ -1,0 +1,10 @@
+\ProvidesDictionary{translator-environment-dictionary}{Dutch}
+
+\providetranslation{advantage}{voordeel}
+\providetranslation{Advantage}{Voordeel}
+\providetranslation{advantages}{voordelen}
+\providetranslation{Advantages}{Voordelen}
+\providetranslation{disadvantage}{nadeel}
+\providetranslation{Disadvantage}{Nadeel}
+\providetranslation{disadvantages}{nadelen}
+\providetranslation{Disadvantages}{Nadelen}
