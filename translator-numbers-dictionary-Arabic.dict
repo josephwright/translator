@@ -1,0 +1,53 @@
+\ProvidesDictionary{translator-numbers-dictionary}{Arabic}
+
+\providetranslation{one}{واحد}
+\providetranslation{two}{اثنان}
+\providetranslation{three}{ثلاثة}
+\providetranslation{four}{أربعة}
+\providetranslation{five}{خمسة}
+\providetranslation{six}{ستة}
+\providetranslation{seven}{سبعة}
+\providetranslation{eight}{ثمانية}
+\providetranslation{nine}{تسعة}
+\providetranslation{ten}{عشرة}
+\providetranslation{eleven}{احدى عشرة}
+\providetranslation{twelve}{اثنى عشرة}
+
+\providetranslation{One}{واحد}
+\providetranslation{Two}{اثنان}
+\providetranslation{Three}{ثلاثة}
+\providetranslation{Four}{أربعة}
+\providetranslation{Five}{خمسة}
+\providetranslation{Six}{ستة}
+\providetranslation{Seven}{سبعة}
+\providetranslation{Eight}{ثمانية}
+\providetranslation{Nine}{تسعة}
+\providetranslation{Ten}{عشرة}
+\providetranslation{Eleven}{احدى عشرة}
+\providetranslation{Twelve}{اثنى عشرة}
+
+\providetranslation{first}{الأول}
+\providetranslation{second}{الثاني}
+\providetranslation{third}{الثالث}
+\providetranslation{fourth}{الرابع}
+\providetranslation{fifth}{الخامس}
+\providetranslation{sixth}{السادس}
+\providetranslation{seventh}{السابع}
+\providetranslation{eighth}{الثامن}
+\providetranslation{ninth}{التاسع}
+\providetranslation{tenth}{العاشر}
+\providetranslation{eleventh}{الحادي عشر}
+\providetranslation{twelfth}{الثاني عشر}
+
+\providetranslation{1st}{1.}
+\providetranslation{2nd}{2.}
+\providetranslation{3rd}{3.}
+\providetranslation{4th}{4.}
+\providetranslation{5th}{5.}
+\providetranslation{6th}{6.}
+\providetranslation{7th}{7.}
+\providetranslation{8th}{8.}
+\providetranslation{9th}{9.}
+\providetranslation{10th}{10.}
+\providetranslation{11th}{11.}
+\providetranslation{12th}{12.}

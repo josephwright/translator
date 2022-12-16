@@ -1,0 +1,87 @@
+\ProvidesDictionary{translator-basic-dictionary}{Arabic}
+
+\providetranslation{Abstract}{ملخص}
+\providetranslation{Addresses}{عناوين}
+\providetranslation{addresses}{عناوين}
+\providetranslation{Address}{عنوان}
+\providetranslation{address}{عنوان}
+\providetranslation{and}{و}
+\providetranslation{Appendix}{الملاحق}
+\providetranslation{Authors}{المؤلفون}
+\providetranslation{authors}{المؤلفون}
+\providetranslation{Author}{المؤلف}
+\providetranslation{author}{المؤلفون}
+\providetranslation{Bibliography}{المصادر}
+\providetranslation{cc}{نسخة لـ}
+\providetranslation{Chapters}{الأبواب}
+\providetranslation{chapters}{الأبواب}
+\providetranslation{Chapter}{الباب}
+\providetranslation{chapter}{الباب}
+\providetranslation{Conclusion}{استنتاج}
+\providetranslation{conclusion}{استنتاج}
+\providetranslation{Contents}{المحتويات}
+\providetranslation{Continuation}{التالي}
+\providetranslation{continuation}{التالي}
+\providetranslation{cont}{التالي} 
+\providetranslation{encl (plural)}{المرفقات}
+\providetranslation{encl (singular)}{المرفق}
+\providetranslation{encl}{المرفق}
+\providetranslation{Figures}{الأشكال}
+\providetranslation{figures}{الأشكال}
+\providetranslation{Figure}{الشكل}
+\providetranslation{figure}{الشكل}
+\providetranslation{From}{من}
+\providetranslation{from}{من}
+\providetranslation{Glossary}{قائمة المصطلحات}
+\providetranslation{Index}{الفهرس}
+\providetranslation{Introduction}{مدخل}
+\providetranslation{introduction}{مدخل}
+\providetranslation{List of Figures and Tables}{قائمة الأشكال والجداول}
+\providetranslation{List of Figures}{قائمة الأشكال}
+\providetranslation{List of Tables}{قائمة الجداول}
+\providetranslation{or}{أو}
+\providetranslation{Outline}{الخطة}
+\providetranslation{Overview}{الملخص}
+\providetranslation{Pages}{صفحات}
+\providetranslation{pages}{صفحات}
+\providetranslation{Page}{صفحة}
+\providetranslation{page}{صفحة}
+\providetranslation{Paragraphs}{فقرات}
+\providetranslation{paragraphs}{فقرات}
+\providetranslation{Paragraph}{فقرة}
+\providetranslation{paragraph}{فقرة}
+\providetranslation{Parts}{أجزاء}
+\providetranslation{parts}{أجزاء}
+\providetranslation{Part}{جزء}
+\providetranslation{part}{جزء}
+\providetranslation{Preface}{مدخل}
+\providetranslation{Proofs}{براهين}
+\providetranslation{proofs}{براهين}
+\providetranslation{Proof}{برهان}
+\providetranslation{proof}{برهان}
+\providetranslation{References}{مراجع}
+\providetranslation{Related work}{الأعمال ذات الصلة}
+\providetranslation{Related Work}{الأعمال ذات الصلة}
+\providetranslation{Sections}{الفصول}
+\providetranslation{sections}{الفصول}
+\providetranslation{Section}{الفصل}
+\providetranslation{section}{الفصل}
+\providetranslation{See also}{أنظر أيضا}
+\providetranslation{see also}{أنظر أيضا}
+\providetranslation{See}{أنظر}
+\providetranslation{see}{أنظر}
+\providetranslation{Sketch of Proofs}{رسم تخطيطي للبراهين}
+\providetranslation{Sketch of proofs}{رسم تخطيطي للبراهين}
+\providetranslation{Sketch of Proof}{رسم تخطيطي للبرهان}
+\providetranslation{Sketch of proof}{رسم تخطيطي للبرهان}
+\providetranslation{Subsections}{الفصول الفرعية}
+\providetranslation{subsections}{الفصول الفرعية}
+\providetranslation{Subsection}{الفصل الفرعي}
+\providetranslation{subsection}{الفصل الفرعي}
+\providetranslation{Summary}{الملخص}
+\providetranslation{Tables}{الجداول}
+\providetranslation{tables}{الجداول}
+\providetranslation{Table}{الجدول}
+\providetranslation{table}{الجدول}
+\providetranslation{To}{إلى}
+\providetranslation{to}{إلى}

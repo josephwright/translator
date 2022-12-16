@@ -1,0 +1,76 @@
+\ProvidesDictionary{translator-theorem-dictionary}{Arabic}
+
+\providetranslation{Comments}{تعليقات}
+\providetranslation{comments}{تعليقات}
+\providetranslation{Comment}{تعليق}
+\providetranslation{comment}{تعليق}
+\providetranslation{Corollaries}{نتائج}
+\providetranslation{corollaries}{نتائج}
+\providetranslation{Corollary}{نتيجة}
+\providetranslation{corollary}{نتيجة}
+\providetranslation{Definitions}{تعريفات}
+\providetranslation{definitions}{تعريفات}
+\providetranslation{Definition}{تعريف}
+\providetranslation{definition}{تعريف}
+\providetranslation{Examples}{أمثلة}
+\providetranslation{examples}{أمثلة}
+\providetranslation{Example}{مثال}
+\providetranslation{example}{مثال}
+\providetranslation{Exercises}{تمارين}
+\providetranslation{exercises}{تمارين}
+\providetranslation{Exercise}{تمرين}
+\providetranslation{exercise}{تمرين}
+\providetranslation{Facts}{حقائق}
+\providetranslation{facts}{حقائق}
+\providetranslation{Fact}{حقيقة}
+\providetranslation{fact}{حقيقة}
+\providetranslation{Key Lemmas}{لازمات أساسية}
+\providetranslation{key lemmas}{لازمات أساسية}
+\providetranslation{Key Lemma}{لازمة أساسية}
+\providetranslation{key lemma}{لازمة أساسية}
+\providetranslation{Key Observations}{ملاحظات حاسمة}
+\providetranslation{key observations}{ملاحظات حاسمة}
+\providetranslation{Key Observation}{ملاحظة حاسمة}
+\providetranslation{key observation}{ملاحظة حاسمة}
+\providetranslation{Lemmas}{لازمات}
+\providetranslation{lemmas}{لازمات}
+\providetranslation{Lemma}{لازمة}
+\providetranslation{lemma}{لازمة}
+\providetranslation{Main Theorems}{النظريات الأساسية}
+\providetranslation{main theorems}{النظريات الأساسية}
+\providetranslation{Main Theorem}{النظرية الأساسية}
+\providetranslation{main theorem}{النظرية الأساسية}
+\providetranslation{Observations}{ملاحظات}
+\providetranslation{observations}{ملاحظات}
+\providetranslation{Observation}{ملاحظة}
+\providetranslation{observation}{ملاحظة}
+\providetranslation{Problems}{مسائل}
+\providetranslation{problems}{مسائل}
+\providetranslation{Problem}{مسألة}
+\providetranslation{problem}{مسألة}
+\providetranslation{Proofs}{براهين}
+\providetranslation{proofs}{براهين}
+\providetranslation{Proof}{برهان}
+\providetranslation{proof}{برهان}
+\providetranslation{Proof Sketch}{مخطط البرهان}
+\providetranslation{Proof sketch}{مخطط البرهان}
+\providetranslation{proof sketch}{مخطط البرهان}
+\providetranslation{Proof Sketches}{مخططات البرهان}
+\providetranslation{Proof sketches}{مخططات البرهان}
+\providetranslation{proof sketches}{مخططات البرهان}
+\providetranslation{Propositions}{قضايا}
+\providetranslation{propositions}{قضايا}
+\providetranslation{Proposition}{قضية}
+\providetranslation{proposition}{قضية}
+\providetranslation{Remarks}{ملاحظات}
+\providetranslation{remarks}{ملاحظات}
+\providetranslation{Remark}{ملاحظة}
+\providetranslation{remark}{ملاحظة}
+\providetranslation{Solutions}{حلول}
+\providetranslation{solutions}{حلول}
+\providetranslation{Solution}{حلول}
+\providetranslation{solution}{حلول}
+\providetranslation{Theorems}{نظريات}
+\providetranslation{theorems}{نظريات}
+\providetranslation{Theorem}{نظرية}
+\providetranslation{theorem}{نظرية}
