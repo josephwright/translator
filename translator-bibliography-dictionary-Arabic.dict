@@ -1,0 +1,18 @@
+\ProvidesDictionary{translator-bibliography-dictionary}{Arabic}
+
+\providetranslation{Editions}{طبعات}
+\providetranslation{editions}{طبعات}
+\providetranslation{Edition}{طبعة}
+\providetranslation{edition}{طبعة}
+\providetranslation{Editors}{المحررين}
+\providetranslation{editors}{المحررين}
+\providetranslation{Editor}{المحرر}
+\providetranslation{editor}{المحرر}
+\providetranslation{Extended edition}{طبعة موسعة}%?
+\providetranslation{extended edition}{طبعة موسعة}%?
+\providetranslation{in (bibliography)}{في}
+\providetranslation{In (bibliography)}{في}
+\providetranslation{Technical Reports}{تقارير تقنية}
+\providetranslation{technical reports}{تقارير تقنية}
+\providetranslation{Technical Report}{تقرير تقني}
+\providetranslation{technical report}{تقرير تقني}

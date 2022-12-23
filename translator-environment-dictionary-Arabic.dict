@@ -1,0 +1,10 @@
+\ProvidesDictionary{translator-environment-dictionary}{Arabic}
+
+\providetranslation{advantage}{ميزة}
+\providetranslation{Advantage}{ميزة}
+\providetranslation{advantages}{ميزات}
+\providetranslation{Advantages}{ميزات}
+\providetranslation{disadvantage}{مسيئة}
+\providetranslation{Disadvantage}{مسيئة}
+\providetranslation{disadvantages}{مساوئ}
+\providetranslation{Disadvantages}{مساوئ}
