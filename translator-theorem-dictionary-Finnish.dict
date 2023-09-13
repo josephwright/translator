@@ -1,0 +1,82 @@
+\ProvidesDictionary{translator-theorem-dictionary}{Finnish}
+
+\providetranslation{Comments}{Kommentit}
+\providetranslation{comments}{kommentit}
+\providetranslation{Comment}{Kommentti}
+\providetranslation{comment}{kommentti}
+\providetranslation{Corollaries}{Seuraukset}
+\providetranslation{corollaries}{seuraukset}
+\providetranslation{Corollary}{Seuraus}
+\providetranslation{corollary}{seuraus}
+\providetranslation{Definitions}{Määritelmät}
+\providetranslation{definitions}{määritelmät}
+\providetranslation{Definition}{Määritelmä}
+\providetranslation{definition}{määritelmä}
+\providetranslation{Examples}{Esimerkit}
+\providetranslation{examples}{esimerkit}
+\providetranslation{Example}{Esimerkki}
+\providetranslation{example}{esimerkki}
+\providetranslation{Exercises}{Tehtävät}
+\providetranslation{exercises}{tehtävät}
+\providetranslation{Exercise}{Tehtävä}
+\providetranslation{exercise}{tehtävä}
+\providetranslation{Facts}{Toteamukset}
+\providetranslation{facts}{toteamukset}
+\providetranslation{Fact}{Toteamus}
+\providetranslation{fact}{toteamus}
+\providetranslation{Key Lemmas}{Keskeiset apulauseet}
+\providetranslation{key lemmas}{keskeiset apulauseet}
+\providetranslation{Key Lemma}{keskeinen apulause}
+\providetranslation{key lemma}{keskeinein apulause}
+\providetranslation{Key Observations}{Keskeiset havainnot}
+\providetranslation{key observations}{keskeiset havainnot}
+\providetranslation{Key Observation}{Keskeinen havainto}
+\providetranslation{key observation}{keskeinen havainto}
+\providetranslation{Lemmas}{Apulauseet}
+\providetranslation{lemmas}{apulauseet}
+\providetranslation{Lemma}{Apulause}
+\providetranslation{lemma}{apulause}
+\providetranslation{Main Theorems}{Keskeiset olettamukset}
+\providetranslation{main theorems}{keskeiset olettamukset}
+\providetranslation{Main Theorem}{Keskeinen oletus}
+\providetranslation{main theorem}{keskeinen oletus}
+\providetranslation{Observations}{Havainnot}
+\providetranslation{observations}{havainnot}
+\providetranslation{Observation}{Havainto}
+\providetranslation{observation}{havainto}
+\providetranslation{Problems}{Ongelmat}
+\providetranslation{problems}{ongelmat}
+\providetranslation{Problem}{Ongelma}
+\providetranslation{problem}{ongelma}
+\providetranslation{Proofs}{Todistukset}
+\providetranslation{proofs}{todistukset}
+\providetranslation{Proof}{Todistus}
+\providetranslation{proof}{todistus}
+\providetranslation{Proof Sketch}{Todistusluonnos}
+\providetranslation{Proof sketch}{Todistusluonnos}
+\providetranslation{proof sketch}{todistusluonnos}
+\providetranslation{Proof Sketches}{Todistusluonnokset}
+\providetranslation{Proof sketches}{Todistusluonnokset}
+\providetranslation{proof sketches}{todistusluonnokset}
+\providetranslation{Sketch of Proof}{Todistusluonnos}
+\providetranslation{Sketch of Proofs}{Todistusluonnokset}
+\providetranslation{Sketch of proof}{Todistusluonnos}
+\providetranslation{Sketch of proofs}{Todistusluonnokset}
+\providetranslation{sketch of proof}{todistusluonnos}
+\providetranslation{sketch of proofs}{todistusluonnokset}
+\providetranslation{Propositions}{Esioletukset}
+\providetranslation{propositions}{esioletukset}
+\providetranslation{Proposition}{Esioletus}
+\providetranslation{proposition}{esioletus}
+\providetranslation{Remarks}{Huomautukset}
+\providetranslation{remarks}{huomautukset}
+\providetranslation{Remark}{Huomautus}
+\providetranslation{remark}{huomautus}
+\providetranslation{Solutions}{Ratkaisut}
+\providetranslation{solutions}{ratkaisut}
+\providetranslation{Solution}{Ratkaisu}
+\providetranslation{solution}{ratkaisu}
+\providetranslation{Theorems}{Oletukset}
+\providetranslation{theorems}{oletukset}
+\providetranslation{Theorem}{Oletus}
+\providetranslation{theorem}{oletus}

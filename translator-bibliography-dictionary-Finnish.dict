@@ -1,0 +1,21 @@
+\ProvidesDictionary{translator-bibliography-dictionary}{Finnish}
+
+\providetranslation{ed.}{p.}
+\providetranslation{Editions}{Painokset}
+\providetranslation{editions}{painokset}
+\providetranslation{Edition}{Painos}
+\providetranslation{edition}{painos}
+\providetranslation{Editors}{Toimittajat}
+\providetranslation{editors}{toimittajat}
+\providetranslation{Editor}{toimittaja}
+\providetranslation{editor}{toimittaja}
+\providetranslation{eds.}{pnks.}
+\providetranslation{Extended edition}{Laajennettu painos}
+\providetranslation{extended edition}{laajennettu painos}
+\providetranslation{in (bibliography)}{vastuu}
+\providetranslation{In (bibliography)}{Vastuu}
+\providetranslation{Tech. Rep.}{Tekninen vastaaja}
+\providetranslation{Technical Reports}{Tekniset raportit}
+\providetranslation{technical reports}{tekniset raportit}
+\providetranslation{Technical Report}{Tekninen raportti}
+\providetranslation{technical report}{tekninen raportti}

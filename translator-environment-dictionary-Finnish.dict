@@ -1,0 +1,10 @@
+\ProvidesDictionary{translator-environment-dictionary}{Finnish}
+
+\providetranslation{advantage}{etu}
+\providetranslation{Advantage}{Etu}
+\providetranslation{advantages}{edut}
+\providetranslation{Advantages}{Edut}
+\providetranslation{disadvantage}{haitta}
+\providetranslation{Disadvantage}{Haitta}
+\providetranslation{disadvantages}{haitat}
+\providetranslation{Disadvantages}{Haitat}
